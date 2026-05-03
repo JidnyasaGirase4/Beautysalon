@@ -2,6 +2,8 @@
 
 A responsive landing page for a beauty salon business, built with HTML, CSS, JavaScript, and PHP.
 
+**Live Demo:** https://darling-brioche-aab4bd.netlify.app/
+
 ## Features
 
 - Responsive design using Bootstrap

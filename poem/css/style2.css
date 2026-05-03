@@ -1,0 +1,33 @@
+.tnk-head1{
+	padding-top:20px;
+}
+
+.thk-btn1{
+	margin-left:550px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.thk-btn2{
+	margin-left:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+/**************MObile View css start ***/
+
+@media (min-width: 100px) and (max-width: 991px) {
+.thk-btn1{
+	margin-left:70px;
+	margin-top:-10px;
+	margin-bottom:20px;
+}
+
+.thk-btn2{
+	margin-left:170px;
+	margin-top:-82px;
+	margin-bottom:20px;
+}
+}
+
+/**************MObile View css End ***/
